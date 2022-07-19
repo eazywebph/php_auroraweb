@@ -1,0 +1,75 @@
+body {
+    font: 1.5em Calibri;
+    padding: 0;
+}
+
+#wrap {
+    display: block;
+    padding: 0;
+}
+
+h1 {
+    font-size: 0.6em;
+}
+
+h2 {
+    font-size: 0.8em;
+}
+
+.sm1 {
+    font-size: 0.7em;
+    float: right;
+    font-weight: normal;
+}
+
+#navbar {
+    font: 0.7em calibri;
+    background-color: #99c0ff;
+}
+
+    .nb_ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 10px 0 0 15px;
+        overflow: hidden;
+    }
+    
+    .nb_li {
+        float: left;
+        padding: 0px 25px 10px 0px;
+    }
+    
+    .nb_li a {
+        text-decoration: none;
+        color: #555;
+    }
+    
+    .nb_li a:hover {
+        color: #cccccc;
+    }
+
+#login {
+    margin: 0;
+    padding: 0;
+}
+
+    #login p {
+        font: 0.7em Calibri;
+        margin: 0;
+        line-height: 2em;
+    }
+    
+        #login a {
+            text-decoration: none;
+            font-size: 0.8em;
+            padding: 0 5px 0 0;
+        }
+        
+            #login a:hover {
+                text-decoration: none;
+            }
+
+    #login form {
+        margin: 0;
+        padding: 0;
+    }
